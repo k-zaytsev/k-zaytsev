@@ -1,16 +1,18 @@
-### Hi there 👋
+    ## Hi there 👋
 
-<!--
-**k-zaytsev/k-zaytsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ## My Name is Konstantin Zaitsev
+                    Konstantin
+    I am an ambitious and energetic software engineer with a demonstrated history of working in the information technology and services industry.<br>
+    I believe in life-long learning and knowledge sharing. I also deeply believe in the open-source movement and try to give back to the community whenever I can.
 
-Here are some ideas to get you started:
+    ## Skills
+    * Software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## Things I'm working on
+    - 🔭 Building server side web applications using Golang and Python
+
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-zaytsev&count_private=true)
+    ![stats](https://github-readme-stats.vercel.app/api?username=k-zaytsev&count_private=true)
+
+    ## You can find me on
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/k-zaytsev)<br>
